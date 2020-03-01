@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for ((n=0;n<100;n++)); 
+
+do sys161 kernel-ASST1 "sy2;q"; 
+
+done

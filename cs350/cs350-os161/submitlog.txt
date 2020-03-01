@@ -1,0 +1,6 @@
+This is /u/cs350/bin/cs350_submit for CS350 assignment 0.
+/u/cs350/bin/cs350_submit: this script creates a tar file called os161kern.tgz and submits
+    it to the course account.  However, a file named os161kern.tgz
+    already exists in this directory.  Remove it or rename it
+    and run /u/cs350/bin/cs350_submit again
+/u/cs350/bin/cs350_submit IS ABORTING!  No files are being submitted to the course account.
